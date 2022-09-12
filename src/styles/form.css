@@ -1,0 +1,28 @@
+.form-inputs {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form-inputs .text-input, .form-inputs .text-error {
+    padding: 15px 20px;
+    margin: 0 20px 20px;
+    min-width: 320px;
+}
+
+.form-inputs .button-input {
+    width: 100px;
+    margin: 0 20px 20px auto;
+    padding: 15px 20px;
+    background-color: #22d3ee;
+    border: transparent;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+}
+
+.form-inputs .button-input:hover {
+    background-color: #06b6d4;
+    transition: background-color 0.5s;
+}

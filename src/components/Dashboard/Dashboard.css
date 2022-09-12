@@ -1,0 +1,39 @@
+.sidebar {
+    max-width: 230px;
+    height: 100vh;
+    overflow: scroll;
+    gap: 20px;
+}
+
+.field-input {
+    padding: 10px;
+    border: 1px solid #eee;
+}
+
+.sidebar p {
+    display: block;
+}
+
+.sidebar .sender {
+    color: #333;
+    border: 1px solid #333;
+    padding: 20px;
+}
+
+.sidebar .sender {
+    color: #333;
+    text-decoration: none;
+}
+
+.sidebar .sender:hover {
+    background-color: #f4f4f5;
+    transition: background-color 0.5s;
+    border: 1px dashed;
+}
+
+.main-content {
+    padding: 20px;
+    height: 100vh;
+    overflow: scroll;
+    gap: 20px;
+}

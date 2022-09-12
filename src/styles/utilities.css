@@ -1,0 +1,43 @@
+.text-left {
+    text-align: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.p0 {
+    padding: 0 !important;
+}
+
+.m0 {
+    margin: 0 !important;
+}
+
+.p1 {
+    padding: 20px;
+}
+
+.pl1 {
+    padding-left: 10px;
+}
+
+.mt1 {
+    margin-top: 20px;
+}
+
+.mt2 {
+    margin-top: 40px;
+}
+
+.mb1 {
+    margin-bottom: 20px;
+}
+
+.mb2 {
+    margin-bottom: 40px;
+}
+
+.mr1 {
+    margin-right: 20px;
+}
